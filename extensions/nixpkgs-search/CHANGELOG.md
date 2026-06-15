@@ -1,5 +1,9 @@
 # NixPkgs Search Changelog
 
+## [Update] - {PR_MERGE_DATE}
+
+- Add support for 26.05
+
 ## [Update] - 2026-01-27
 
 - Add "Open Package Details" action to open the package on search.nixos.org
